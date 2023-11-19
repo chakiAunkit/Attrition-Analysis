@@ -1,5 +1,3 @@
-Sure, here is a README for the Attrition-Analysis/Deloitte project_final.ipynb project:
-
 ## Attrition Analysis for Deloitte Employees
 
 ### Introduction
